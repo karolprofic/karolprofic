@@ -40,7 +40,7 @@
 
 
 <p align="center">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karolprofic&layout=compact"/>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karolprofic&exclude_repo=Fishy-Towers&layout=compact"/>
 </p>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=karolprofic&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) 
