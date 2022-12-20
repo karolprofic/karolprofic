@@ -3,10 +3,14 @@
 ----------------
 
 
-<p align="center">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karolprofic&exclude_repo=Fishy-Towers)](https://github.com/karolprofic)
-</p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karolprofic&exclude_repo=Fishy-Towers)](https://github.com/karolprofic)
+
+<!-- CSS -->
+img {
+    display: block;
+    margin: auto;
+}
 
 <!--
 **karolprofic/karolprofic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
