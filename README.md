@@ -39,6 +39,9 @@
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karolprofic&exclude_repo=Fishy-Towers"/>
 </p>
 
+<p align="center">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karolprofic"/>
+</p>
 
 <!--
 **karolprofic/karolprofic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
