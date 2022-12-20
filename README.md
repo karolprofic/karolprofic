@@ -2,13 +2,27 @@
 
 ## Languages: 
 
-<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"><
-<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
+<img height="40" src="./icons/cpp.png">
+<img height="40" src="./icons/cpp.png">
+<img height="40" src="./icons/cpp.png">
+<img height="40" src="./icons/cpp.png">
+<img height="40" src="./icons/cpp.png">
+<img height="40" src="./icons/cpp.png">
+
+## Frameworks: 
+
+<p align="center">
+	<img height="40" src="./icons/cpp.png">
+	<img height="40" src="./icons/cpp.png">
+	<img height="40" src="./icons/cpp.png">
+	<img height="40" src="./icons/cpp.png">
+	<img height="40" src="./icons/cpp.png">
+	<img height="40" src="./icons/cpp.png">
+</p>
 
 ## Tools: 
 
-<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"><
-<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
+<img height="40" src="./icons/cpp.png">
 
 
 <p align="center">
