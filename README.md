@@ -1,6 +1,6 @@
 ## Hi 👋
 
-My name is Karol I am a student at the Lodz University of Technology. I am interested in web development in particular the Back-end. I have the most experience using Ptyhon with Flask or Django on the Back-end side and React on the Front-end side. I am also interested in creating computer games mostly with Unreal Engine or Unity and WordPress theme development.
+My name is Karol, I am a student at the Łódź University of Technology. I am interested in web development, in particular the Back-end. I have the most experience using Python with Flask or Django on the Back-end side and React on the Front-end side. Not only that, but I am also interested in creating computer games, mostly with Unreal Engine or Unity and WordPress theme development.
 
 ## Languages: 
 
