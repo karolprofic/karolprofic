@@ -2,10 +2,15 @@
 
 ----------------
 
+<p align="center">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karolprofic&exclude_repo=Fishy-Towers"/>
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karolprofic&exclude_repo=Fishy-Towers)](https://github.com/karolprofic)
+<p align="center">
+	<img width="400" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karolprofic&exclude_repo=Fishy-Towers"/>
+</p>
 
-<img style="margin: 10px auto;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karolprofic&exclude_repo=Fishy-Towers"/>
+
 
 <!--
 **karolprofic/karolprofic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
