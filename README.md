@@ -3,16 +3,16 @@
 ## Languages: 
 
 <p align="left">
-	<img height="40" src="./icons/javascript.png">
-	<img height="40" src="./icons/csharp.png">
-	<img height="40" src="./icons/python.png">
-	<img height="40" src="./icons/java.png">
-	<img height="40" src="./icons/php.png">
+	<img style="margin-right: 10px;"height="40" src="./icons/javascript.png">
+	<img style="margin-right: 10px;"height="40" src="./icons/csharp.png">
+	<img style="margin-right: 10px;"height="40" src="./icons/python.png">
+	<img style="margin-right: 10px;"height="40" src="./icons/java.png">
+	<img style="margin-right: 10px;"height="40" src="./icons/php.png">
 </p>
 
 ## Frameworks: 
 
-<p align="center">
+<p align="left">
 	<img height="40" src="./icons/django.png">
 	<img height="40" src="./icons/docker.png">
 	<img height="40" src="./icons/flask.png">
