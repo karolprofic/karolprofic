@@ -33,17 +33,19 @@
 	<img height="40" src="./icons/postgresql.png">
 	<img height="40" src="./icons/wordpress.png">
 </p>
+ 
+## Stats: 
 
 <p align="center">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karolprofic&exclude_repo=Fishy-Towers"/>
+	<img src="https://github-readme-streak-stats.herokuapp.com?user=karolprofic&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats"/>
 </p>
-
 
 <p align="center">
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karolprofic&exclude_repo=Fishy-Towers&layout=compact"/>
 </p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=karolprofic&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) 
+
+
 
 
 <!--
