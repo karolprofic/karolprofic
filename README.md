@@ -3,11 +3,11 @@
 ## Languages: 
 
 <p align="left">
-	<img style="margin-right: 10px;"height="40" src="./icons/javascript.png">
-	<img style="margin-right: 10px;"height="40" src="./icons/csharp.png">
-	<img style="margin-right: 10px;"height="40" src="./icons/python.png">
-	<img style="margin-right: 10px;"height="40" src="./icons/java.png">
-	<img style="margin-right: 10px;"height="40" src="./icons/php.png">
+	<img style="margin-right: 10;"height="40" src="./icons/javascript.png">
+	<img style="margin-right: 10;"height="40" src="./icons/csharp.png">
+	<img style="margin-right: 10;"height="40" src="./icons/python.png">
+	<img style="margin-right: 10;"height="40" src="./icons/java.png">
+	<img style="margin-right: 10;"height="40" src="./icons/php.png">
 </p>
 
 ## Frameworks: 
