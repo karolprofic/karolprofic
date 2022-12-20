@@ -24,18 +24,18 @@
 ## Tools: 
 
 <p align="left">
-	<img height="40" src="./icons/ide_rider.png">
-	<img height="40" src="./icons/ide_intellij.png">
-	<img height="40" src="./icons/ide_phpstorm.png">
-	<img height="40" src="./icons/ide_pycharm.png">
-	<img height="40" src="./icons/git.png">
-	<img height="40" src="./icons/firebase.png">
-	<img height="40" src="./icons/postman.png">
-	<img height="40" src="./icons/fork.png">
-	<img height="40" src="./icons/wordpress.png">
-	<img height="40" src="./icons/docker.png">
-	<img height="40" src="./icons/unreal-engine.png">
-	<img height="40" src="./icons/unity.png">
+	<img style="margin-right:5px;" height="40px" src="./icons/ide_rider.png">
+	<img style="margin-right:5px;" height="40px" src="./icons/ide_intellij.png">
+	<img style="margin-right:5px;" height="40px" src="./icons/ide_phpstorm.png">
+	<img style="margin-right:5px;" height="40px" src="./icons/ide_pycharm.png">
+	<img style="margin-right:5px;" height="40px" src="./icons/git.png">
+	<img style="margin-right:5px;" height="40px" src="./icons/firebase.png">
+	<img style="margin-right:5px;" height="40px" src="./icons/postman.png">
+	<img style="margin-right:5px;" height="40px" src="./icons/fork.png">
+	<img style="margin-right:5px;" height="40px" src="./icons/wordpress.png">
+	<img style="margin-right:5px;" height="40px" src="./icons/docker.png">
+	<img style="margin-right:5px;" height="40px" src="./icons/unreal-engine.png">
+	<img style="margin-right:5px;" height="40px" src="./icons/unity.png">
 </p>
  
 ## Stats: 
