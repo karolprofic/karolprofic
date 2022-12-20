@@ -30,7 +30,12 @@
 	<img height="40" src="./icons/docker.png">
 	<img height="40" src="./icons/unreal-engine.png">
 	<img height="40" src="./icons/unity.png">
-	<img height="40" src="./icons/mysql.png">
+	<img height="40" src="./icons/ide_intellij.png">
+	<img height="40" src="./icons/ide_phpstorm.png">
+	<img height="40" src="./icons/ide_pycharm.png">
+	<img height="40" src="./icons/ide_rider.png">
+	<img height="40" src="./icons/postman.png">
+	<img height="40" src="./icons/fork.png">
 </p>
  
 ## Stats: 
