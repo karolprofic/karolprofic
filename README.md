@@ -4,7 +4,7 @@
 
 
 <p align="center">
-	[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karolprofic&exclude_repo=Fishy-Towers)](https://github.com/karolprofic)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karolprofic&exclude_repo=Fishy-Towers)](https://github.com/karolprofic)
 </p>
 
 
