@@ -18,6 +18,7 @@
 	<img height="40" src="./icons/flask.png">
 	<img height="40" src="./icons/laravel.png">
 	<img height="40" src="./icons/sass.png">
+	<img height="40" src="./icons/bootstrap.png">
 	<img height="40" src="./icons/vue.png">
 </p>
 
