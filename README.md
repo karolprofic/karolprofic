@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+--
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karolprofic)](https://github.com/karolprofic)
+
+
+
 <!--
 **karolprofic/karolprofic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
