@@ -24,14 +24,13 @@
 ## Tools: 
 
 <p align="left">
-	<img height="40" src="./icons/docker.png">
-	<img height="40" src="./icons/unity.png">
-	<img height="40" src="./icons/unreal-engine.png">
-	<img height="40" src="./icons/firebase.png">
 	<img height="40" src="./icons/git.png">
-	<img height="40" src="./icons/mysql.png">
-	<img height="40" src="./icons/postgresql.png">
+	<img height="40" src="./icons/firebase.png">
 	<img height="40" src="./icons/wordpress.png">
+	<img height="40" src="./icons/docker.png">
+	<img height="40" src="./icons/unreal-engine.png">
+	<img height="40" src="./icons/unity.png">
+	<img height="40" src="./icons/mysql.png">
 </p>
  
 ## Stats: 
