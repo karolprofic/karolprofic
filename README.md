@@ -23,7 +23,7 @@
 
 ## Tools: 
 
-<p align="center">
+<p align="left">
 	<img height="40" src="./icons/docker.png">
 	<img height="40" src="./icons/unity.png">
 	<img height="40" src="./icons/unreal-engine.png">
@@ -36,11 +36,15 @@
  
 ## Stats: 
 
-<p align="center">
-	<img src="https://github-readme-streak-stats.herokuapp.com?user=karolprofic&date_format=j M[ Y%])](https://git.io/streak-stats"/>
+<p align="left">
+	<img src="https://github-readme-streak-stats.herokuapp.com?user=karolprofic&date_format=j M[ Y%]](https://git.io/streak-stats"/>
 </p>
 
-<p align="center">
+<p align="left">
+	<img src="https://github-readme-streak-stats.herokuapp.com?user=karolprofic](https://git.io/streak-stats"/>
+</p>
+
+<p align="left">
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karolprofic&exclude_repo=Fishy-Towers&layout=compact"/>
 </p>
 
