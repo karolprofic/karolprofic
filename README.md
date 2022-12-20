@@ -37,11 +37,7 @@
 ## Stats: 
 
 <p align="left">
-	<img src="https://github-readme-streak-stats.herokuapp.com?user=karolprofic&date_format=j M[ Y%]](https://git.io/streak-stats"/>
-</p>
-
-<p align="left">
-	<img src="https://github-readme-streak-stats.herokuapp.com?user=karolprofic](https://git.io/streak-stats"/>
+	<img src="https://github-readme-streak-stats.herokuapp.com?user=karolprofic]"/>
 </p>
 
 <p align="left">
