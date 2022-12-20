@@ -1,13 +1,15 @@
-### Hi there 👋
+## Hi 👋
+
+My name is Karol I am a student at the Lodz University of Technology. I am interested in web development in particular the Back-end. I have the most experience using Ptyhon with Flask or Django on the Back-end side and React on the Front-end side. I am also interested in creating computer games mostly with Unreal Engine or Unity and WordPress theme development.
 
 ## Languages: 
 
 <p align="left">
-	<img style="margin-right: 10;"height="40" src="./icons/javascript.png">
-	<img style="margin-right: 10;"height="40" src="./icons/csharp.png">
-	<img style="margin-right: 10;"height="40" src="./icons/python.png">
-	<img style="margin-right: 10;"height="40" src="./icons/java.png">
-	<img style="margin-right: 10;"height="40" src="./icons/php.png">
+	<img height="40" src="./icons/javascript.png">
+	<img height="40" src="./icons/csharp.png">
+	<img height="40" src="./icons/python.png">
+	<img height="40" src="./icons/java.png">
+	<img height="40" src="./icons/php.png">
 </p>
 
 ## Frameworks: 
@@ -24,18 +26,19 @@
 ## Tools: 
 
 <p align="left">
-	<img style="margin-right:5px;" height="40px" src="./icons/ide_rider.png">
-	<img style="margin-right:5px;" height="40px" src="./icons/ide_intellij.png">
-	<img style="margin-right:5px;" height="40px" src="./icons/ide_phpstorm.png">
-	<img style="margin-right:5px;" height="40px" src="./icons/ide_pycharm.png">
-	<img style="margin-right:5px;" height="40px" src="./icons/git.png">
-	<img style="margin-right:5px;" height="40px" src="./icons/firebase.png">
-	<img style="margin-right:5px;" height="40px" src="./icons/postman.png">
-	<img style="margin-right:5px;" height="40px" src="./icons/fork.png">
-	<img style="margin-right:5px;" height="40px" src="./icons/wordpress.png">
-	<img style="margin-right:5px;" height="40px" src="./icons/docker.png">
-	<img style="margin-right:5px;" height="40px" src="./icons/unreal-engine.png">
-	<img style="margin-right:5px;" height="40px" src="./icons/unity.png">
+	<img height="40" src="./icons/ide_rider.png">
+	<img height="40" src="./icons/ide_intellij.png">
+	<img height="40" src="./icons/ide_phpstorm.png">
+	<img height="40" src="./icons/ide_pycharm.png">
+	<img height="40" src="./icons/git.png">
+	<img height="40" src="./icons/firebase.png">
+	<img height="40" src="./icons/postman.png">
+	<img height="40" src="./icons/fork.png">
+	<img height="40" src="./icons/wordpress.png">
+	<img height="40" src="./icons/docker.png">
+	<img height="40" src="./icons/unreal-engine.png">
+	<img height="40" src="./icons/unity.png">
+	<img height="40" src="./icons/mysql.png">
 </p>
  
 ## Stats: 
@@ -48,26 +51,3 @@
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karolprofic&exclude_repo=Fishy-Towers&layout=compact"/>
 </p>
 
-
-
-<style>
-	img {
-		margin-right: 10px;
-	}
-
-</style>
-
-<!--
-**karolprofic/karolprofic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
