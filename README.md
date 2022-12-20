@@ -2,11 +2,11 @@
 
 ## Languages: 
 
-<p align="center">
-	<img height="40" src="./icons/java.png">
-	<img height="40" src="./icons/csharp.png">
+<p align="left">
 	<img height="40" src="./icons/javascript.png">
+	<img height="40" src="./icons/csharp.png">
 	<img height="40" src="./icons/python.png">
+	<img height="40" src="./icons/java.png">
 	<img height="40" src="./icons/php.png">
 </p>
 
