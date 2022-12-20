@@ -2,12 +2,17 @@
 
 ## Languages: 
 
-<img height="40" src="./icons/cpp.png">
-<img height="40" src="./icons/cpp.png">
-<img height="40" src="./icons/cpp.png">
-<img height="40" src="./icons/cpp.png">
-<img height="40" src="./icons/cpp.png">
-<img height="40" src="./icons/cpp.png">
+<p align="center">
+	<img height="40" src="./icons/c.png">
+	<img height="40" src="./icons/cpp.png">
+	<img height="40" src="./icons/csharp.png">
+	<img height="40" src="./icons/java.png">
+	<img height="40" src="./icons/javascript.png">
+	<img height="40" src="./icons/php.png">
+	<img height="40" src="./icons/python.png">
+	<img height="40" src="./icons/cpp.png">
+	<img height="40" src="./icons/cpp.png">
+</p>
 
 ## Frameworks: 
 
@@ -22,7 +27,14 @@
 
 ## Tools: 
 
-<img height="40" src="./icons/cpp.png">
+<p align="center">
+	<img height="40" src="./icons/unity.png">
+	<img height="40" src="./icons/unreal-engine.png">
+	<img height="40" src="./icons/cpp.png">
+	<img height="40" src="./icons/cpp.png">
+	<img height="40" src="./icons/cpp.png">
+	<img height="40" src="./icons/cpp.png">
+</p>
 
 
 <p align="center">
