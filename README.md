@@ -13,18 +13,18 @@
 ## Frameworks: 
 
 <p align="left">
-	<img height="40" src="./icons/django.png">
-	<img height="40" src="./icons/docker.png">
 	<img height="40" src="./icons/flask.png">
+	<img height="40" src="./icons/django.png">
 	<img height="40" src="./icons/laravel.png">
-	<img height="40" src="./icons/sass.png">
 	<img height="40" src="./icons/bootstrap.png">
-	<img height="40" src="./icons/vue.png">
+	<img height="40" src="./icons/sass.png">
+	<img height="40" src="./icons/react.png">
 </p>
 
 ## Tools: 
 
 <p align="center">
+	<img height="40" src="./icons/docker.png">
 	<img height="40" src="./icons/unity.png">
 	<img height="40" src="./icons/unreal-engine.png">
 	<img height="40" src="./icons/firebase.png">
