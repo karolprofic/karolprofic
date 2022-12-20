@@ -42,7 +42,17 @@
 <p align="center">
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karolprofic"/>
 </p>
+https://github-readme-streak-stats.herokuapp.com/?user=karolprofic
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?karolprofic&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karolprofic)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?karolprofic&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?karolprofic&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?karolprofic&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **karolprofic/karolprofic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
