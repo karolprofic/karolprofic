@@ -1,52 +1,10 @@
 ## Hi 👋
 
-My name is Karol, I am a student at the Łódź University of Technology. I am interested in web development, in particular the Back-end. I have the most experience using Python with Flask or Django on the Back-end side. I am also interested in creating computer games, mostly with Unreal Engine or Unity and WordPress theme development.
+Welcome to my profile on GitHub! I'm an enthusiast of creating websites and games. For website development, I most often use Vue with Python (Flask) or WordPress. In case of games, my favorite's engine is Unreal Engine, but I also have an experience with Unity.  
+In my repository, you can find the source code of my projects, including Unreal Engine games and websites that I create. Also there are assignments from my studies at the Technical University of Lodz.
+I highly value collaboration and exchanging ideas with other programmers, designers, and creators. If you want to get in touch with me, you can do it through email on my GitHub profile. 
 
-## Languages: 
-
-<p align="left">
-	<img height="40" src="./icons/javascript.png">
-	<img height="40" src="./icons/csharp.png">
-	<img height="40" src="./icons/python.png">
-	<img height="40" src="./icons/java.png">
-	<img height="40" src="./icons/php.png">
-</p>
-
-## Frameworks: 
-
-<p align="left">
-	<img height="40" src="./icons/bootstrap.png">
-	<img height="40" src="./icons/sass.png">
-	<img height="40" src="./icons/django.png">
-	<img height="40" src="./icons/flask.png">
-</p>
-
-
-## Tools: 
-
-<p align="left">
-	<img height="40" src="./icons/ide_rider.png">
-	<img height="40" src="./icons/ide_intellij.png">
-	<img height="40" src="./icons/ide_phpstorm.png">
-	<img height="40" src="./icons/ide_pycharm.png">
-	<img height="40" src="./icons/git.png">
-	<img height="40" src="./icons/firebase.png">
-	<img height="40" src="./icons/postman.png">
-	<img height="40" src="./icons/fork.png">
-	<img height="40" src="./icons/wordpress.png">
-	<img height="40" src="./icons/docker.png">
-	<img height="40" src="./icons/unreal-engine.png">
-	<img height="40" src="./icons/unity.png">
-	<img height="40" src="./icons/mysql.png">
-</p>
- 
-## Stats: 
-
-<p align="left">
-	<img src="https://github-readme-streak-stats.herokuapp.com?user=karolprofic]"/>
-</p>
-
-<p align="left">
+<p align="center">
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karolprofic&exclude_repo=Fishy-Towers&layout=compact"/>
 </p>
 
